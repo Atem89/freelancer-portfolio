@@ -11,5 +11,5 @@ navBtn.onclick = () => {
 }
 
     AOS.init({
-        once: true
+        //once: true
     });
